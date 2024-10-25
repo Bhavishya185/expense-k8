@@ -6,7 +6,7 @@ metadata:
 data:
    DB_HOST: backend
 
-----
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
